@@ -1,0 +1,6 @@
+{
+  "SUPABASE_SERVER": "https://slkrwzibwomucprexzlr.supabase.co",
+  "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNsa3J3emlid29tdWNwcmV4emxyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDkzNTEyMzcsImV4cCI6MjAyNDkyNzIzN30.VnHmAIVOdaPQwkWKlQPTpDJJcFaMSE17Jelpk5AlLJ0",
+  "CLOUDINARY_NAME": "deefrqkiu",
+  "CLOUDINARY_PRESET": "jade_crochet"
+}
